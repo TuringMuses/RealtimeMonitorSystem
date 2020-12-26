@@ -10,5 +10,6 @@ To start the system, in  command window
   node app.js
 2.start the frontedn
   cd vision
+  node install
   npm run serve
 3.the system will open in "http://localhost:8999/#/"
