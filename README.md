@@ -7,9 +7,9 @@ WebSocket is used to transfer the data between the front and the back end.
 To start the system, in  command window
 1. start the backend  
   cd koa_server  
-  node app.js\
-2.start the frontend  
+  node app.js  
+\2.start the frontend  
   cd vision  
   node install  
-  npm run serve\
-3.the system will open in "http://localhost:8999/#/"
+  npm run serve  
+\3.the system will open in "http://localhost:8999/#/"
